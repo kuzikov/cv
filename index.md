@@ -36,7 +36,7 @@ Distributed computing, database architecture, cybersecurity, system programming,
 `2014-2015`
 __National Research University of Electronic Technology - MIET__
 
-- Quantum Physics and Nanoelectronics - Nanotechnology in Electronics
+- Quantum Physics and Nanoelectronics - Nanotechnology in Electronics.
 
 `2019-now`
 __Alem programming school__
