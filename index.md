@@ -13,12 +13,12 @@ Self-learning software and electrical engineering through research & development
 
 ## Currently
 
-I study at Alem programming school. Looking for an internship or job offer in the IT industry.
+I study at [Alem](https://alem.school) programming school based on [01-EDU](https://01-edu.org) platform . Looking for an internship or job offer in the IT industry.
 
 
 ## About
 
-I have a hands-on experience in development backend, web applications, cli and other things using the Golang.
+I have a handsckend, web applications, cli and other things using the Golang.
 
 
 ### Technical skills
