@@ -45,6 +45,12 @@ __Alem programming school__
 - Project-based education with dadlines and exams.
 
 
+## Work experience
+
+`jan 2021 - may 2021`
+Kazdream Software - Golang developer.
+
+
 
 <!-- ### Footer
 
