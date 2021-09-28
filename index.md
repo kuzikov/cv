@@ -29,7 +29,7 @@ Golang toolchain, Linux, Bash, Git, PostgresQL / PostGIS, javascript, html / css
 
 ### Research interests
 
-Distributed computing, database architecture, cybersecurity, system programming, android development.
+Distributed computing, database architecture, cybersecurity, system programming, blockchain and crypto.
 
 
 ## Education
