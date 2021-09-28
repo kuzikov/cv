@@ -18,7 +18,7 @@ I study at [Alem](https://alem.school) programming school based on [01-EDU](http
 
 ## About
 
-I have a handsckend, web applications, cli and other things using the Golang.
+I have a hands-on experience in development backend, web applications, cli and other things using the Golang.
 
 
 ### Technical skills
