@@ -19,6 +19,7 @@ I study at [Alem](https://alem.school) programming school based on [01-EDU](http
 ## About
 
 I have a hands-on experience in development backend, web applications, cli and other things using the Golang.
+Now diving into the world of blockchain, cryptocurrencies and related cool stuff.
 
 
 ### Technical skills
@@ -34,7 +35,7 @@ Distributed computing, database architecture, cybersecurity, system programming,
 ## Education
 
 `2014-2015`
-__National Research University of Electronic Technology - MIET__
+__National Research University of Electronic Technology - MIET__ | Russia
 
 - Quantum Physics and Nanoelectronics - Nanotechnology in
  Electronics.
@@ -48,7 +49,7 @@ __Alem programming school__
 ## Work experience
 
 `jan 2021 - may 2021`
-Kazdream Software - Golang developer.
+Kazdream Software - Golang backend developer.
 
 
 
