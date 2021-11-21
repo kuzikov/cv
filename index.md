@@ -14,12 +14,13 @@ Self-learning software and electrical engineering through research & development
 ## Currently
 
 I study at [Alem](https://alem.school) programming school based on [01-EDU](https://01-edu.org) platform and looking for a job offer in the IT industry.
+Now diving into the world of blockchain, cryptocurrencies and related cool stuff.
 
 
 ## About
 
-I have a hands-on experience in development backend, web applications, cli tools and other things using the Golang and js.
-Now diving into the world of blockchain, cryptocurrencies and related cool stuff.
+I am student of Alem programming school. I have a hands-on experience in development backend, web applications, cli tools and other things using the Golang and js.
+
 
 
 ### Technical skills
