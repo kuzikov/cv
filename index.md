@@ -6,8 +6,7 @@ title: Adam Kuzikov's CV
 Self-learning software and electrical engineering through research & development.
 
 <div id="webaddress">
-<a href="kuzikov.dev@gmail.com">kuzikov.dev@gmail.com</a>
-| <a href="https://linkedin.com/in/kuzikov-dev">linkedin</a> | <a href="tel:+77472363271">+7 747 236 32 71</a>
+<a href="kuzikov.dev@gmail.com">kuzikov.dev@gmail.com</a> | <a href="https://linkedin.com/in/kuzikov-dev">linkedin</a>
 </div>
 
 
