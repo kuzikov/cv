@@ -7,29 +7,29 @@ Self-learning software and electrical engineering through research & development
 
 <div id="webaddress">
 <a href="kuzikov.dev@gmail.com">kuzikov.dev@gmail.com</a>
-| <a href="https://linkedin.com/in/kuzikov-dev">linkedin</a> | <a href="tel:+77472363271">+7 747 236 32 71</a>
+| <a href="https://linkedin.com/in/kuzikov-dev">linkedin</a>
 </div>
 
 
 ## Currently
 
-I study at [Alem](https://alem.school) programming school based on [01-EDU](https://01-edu.org) platform . Looking for an internship or job offer in the IT industry.
+I study at [Alem](https://alem.school) programming school based on [01-EDU](https://01-edu.org) platform and looking for a job offer in the IT industry.
 
 
 ## About
 
-I have a hands-on experience in development backend, web applications, cli and other things using the Golang and js.
+I have a hands-on experience in development backend, web applications, cli tools and other things using the Golang and js.
 Now diving into the world of blockchain, cryptocurrencies and related cool stuff.
 
 
 ### Technical skills
 
-Golang toolchain, Linux, Bash, Git, PostgresQL / PostGIS, javascript, html / css.
+Golang toolchain, Linux, Bash, Git, PostgresQL/PostGIS, javascript, html/css.
 
 
 ### Research interests
 
-Distributed computing, database architecture, cybersecurity, system programming, blockchain and crypto.
+Blockchain and crypto, distributed computing, database architecture, cybersecurity, system programming, .
 
 
 ## Education
@@ -55,5 +55,5 @@ Kazdream Software - Golang backend developer.
 
 <!-- ### Footer
 
-Last updated: Dec 2020 -->
+Last updated: Nov 2021 -->
 
